@@ -1,3 +1,4 @@
+#Multiple specific characters
 Text = "programming"
 
 count = 0
