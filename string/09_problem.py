@@ -7,4 +7,4 @@ print(count)
 num = "programming is the best way"
 
 count =num.count(" ") 
-print(count)
+print()
