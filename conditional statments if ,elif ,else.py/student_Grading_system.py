@@ -1,4 +1,4 @@
-
+#Student grading system
 def get_grade(marks):
     if marks < 0 or marks > 100:
         return "Invalid Marks! please enter marks between 0 to 100."
