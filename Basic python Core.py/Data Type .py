@@ -1,5 +1,6 @@
 # Data type - int-> integer , String
 
+#string
 Name = "vaibhav Rathore"
 Age = 21
 Marks = 77
