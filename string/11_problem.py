@@ -21,5 +21,25 @@ student  = "jogindar"
 str = student[0:4] 
 str1 = student[3:8]
 print(str)
+
+
+value = "oggy"
+str = value[0:2]
+print(str)
+print(len(value))
+
+code = "dfghjjjrtyu"
+str = (code[1:10:4])
+print(str)
+
+word = "amazing"
+str1 = word[1: 6: 2]
 print(str1)
 
+name = "LuckyRathote"
+str2 =name[0:6:2]
+print(str2)
+
+program = "PythonProgramming"
+strr = program[1:17:2]
+print(strr)
