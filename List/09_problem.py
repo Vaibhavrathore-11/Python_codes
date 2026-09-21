@@ -15,5 +15,5 @@ print(Original_list)
 Fruits = ["Apple" , "Banana", "orange", "Mango" , "Kiwi"]
 print(Fruits)
 
-fruit = Fruits.remove("orange")
+Fruits.remove("orange")
 print(Fruits)
