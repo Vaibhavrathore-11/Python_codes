@@ -5,3 +5,8 @@ Fruits = ("Apple", "kiwi", "Banana", "berry","lichi","Gavava","Mango")
 print(Fruits)
 print(Fruits.index("Banana"))
 print(Fruits.index("Mango"))
+
+
+
+name = ("sour", "om", "ben", "vai")
+print(name.index("om"))
