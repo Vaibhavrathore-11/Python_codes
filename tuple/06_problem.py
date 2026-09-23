@@ -20,3 +20,20 @@ repeat = tup * 3
 print(repeat)
 
 print(len(repeat))
+
+
+
+
+numbers = (10, 20, 30)
+letters = ("A", "B")
+
+repeate_number = (10,20,30)*3
+print(repeate_number)
+repeate_letters = ("A", "B")*2
+print(repeate_letters)
+
+final_tuple = repeate_number + repeate_letters
+print(final_tuple)
+print(len(final_tuple))
+
+print(final_tuple.count(20))
