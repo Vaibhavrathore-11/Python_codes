@@ -6,3 +6,5 @@ print(friends[3]) # indexing
 print(friends[2])
 friends[1] = "Grapes" #assign additional value in string
 print(friends)
+
+

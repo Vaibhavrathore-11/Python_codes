@@ -58,3 +58,16 @@ print(type(b),b)
 print(type(value),value)
 print(type(value1),value1)
 
+# complex data type
+x = 1 + 2j
+print(x)
+print(type(x))
+
+# unicode data type 
+u = "V"
+print(ord(u))
+
+# unicode convert into character 
+
+a = 77
+print(chr(a))
