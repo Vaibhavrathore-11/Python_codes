@@ -17,4 +17,4 @@ for i in l:
 print("negative elements in the list are :")
 for i in l:
     if i < 0:
-        print(i)
+     print(i)
