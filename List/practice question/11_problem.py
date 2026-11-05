@@ -1,3 +1,4 @@
+# indexing in string
 word = "python"
 
 print(word[2])  #t
@@ -12,3 +13,5 @@ for i in word:
     print(i)
 
 # string are immutable
+
+
