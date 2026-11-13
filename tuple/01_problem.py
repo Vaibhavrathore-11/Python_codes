@@ -12,5 +12,5 @@ print(type(b))
 t = (12,14,55,64,43.3, False, "elon")
 print(type(t))
 print(t)
-#t[0] = 122 does not change value because tuple are immutable you can create a new tuple 
+#t[0] = 12 does not change value because tuple are immutable you can create a new tuple 
 #print(t)
